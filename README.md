@@ -5,6 +5,7 @@ An host of APIs for a hospital usage.
 
 Express <br />
 Mongoose <br />
+Body-parser <br />
 Passport <br />
 JWT <br />
 Passport-JWT <br />
