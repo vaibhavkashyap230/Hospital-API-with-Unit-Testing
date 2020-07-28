@@ -3,14 +3,14 @@ An host of APIs for a hospital usage.
 
 # Dependencies
 
-Express
-Mongoose
-Passport
-JWT
-Passport-JWT
-Mocha
-Chai
-Should
+Express <br />
+Mongoose <br />
+Passport <br />
+JWT <br />
+Passport-JWT <br />
+Mocha <br />
+Chai <br />
+Should <br />
 
 Entry Point: index.js
 
