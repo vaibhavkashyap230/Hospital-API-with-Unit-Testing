@@ -8,6 +8,9 @@ Mongoose
 Passport
 JWT
 Passport-JWT
+Mocha
+Chai
+Should
 
 Entry Point: index.js
 
